@@ -7,7 +7,8 @@ const jobs = [
         location: "Bangalore, India",
         type: "Full-Time",
         salary: "8–12 LPA",
-        description: "Build UI with React, Tailwind, and REST APIs."
+        description: "Build UI with React, Tailwind, and REST APIs.",
+        fullDescription: "We're looking for a talented frontend developer with strong skills in React, Tailwind CSS, and API integration..."
     },
     {
         id: 2,
@@ -16,7 +17,8 @@ const jobs = [
         location: "Remote",
         type: "Contract",
         salary: "10–14 LPA",
-        description: "Work with React Hooks, Next.js, and design systems."
+        description: "Work with React Hooks, Next.js, and design systems.",
+        fullDescription: "We're looking for a talented frontend developer with strong skills in React, Tailwind CSS, and API integration..."
     },
     {
         id: 3,
@@ -25,7 +27,8 @@ const jobs = [
         location: "Hyderabad",
         type: "Full-Time",
         salary: "9–13 LPA",
-        description: "UI development and API integration."
+        description: "UI development and API integration.",
+        fullDescription: "We're looking for a talented frontend developer with strong skills in React, Tailwind CSS, and API integration...",
     }
 ];
 
